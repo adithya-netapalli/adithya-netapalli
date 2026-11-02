@@ -28,7 +28,7 @@ I build web projects and backend APIs using Python, FastAPI, and SQL. I enjoy bu
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
 </p>
 
-## Connect With Me
+## Reach me
 
 <p align="left">
   <a href="https://linkedin.com/in/adithya-netapalli">
