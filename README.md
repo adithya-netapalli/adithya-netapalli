@@ -7,7 +7,7 @@
 
 ## About Me
 
-I build web projects and backend APIs using Python, FastAPI, and SQL. I enjoy building practical projects, exploring LLM integration, and working toward becoming an AI Engineer.
+I build web projects and backend APIs using Python, FastAPI, and SQL. Exploring LLM integration through projects while working toward becoming an AI Engineer.
 
 ## Tech Stack
 
